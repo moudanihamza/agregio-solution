@@ -1,0 +1,1 @@
+The idea of this KATA is not to develop a robust API but rather to design the data model with low coupling while adhering to software craftsmanship principles and keeping the technology stack lightweight, without using a database, Hibernate, DTOs in the application layer, or endpoints with Spring Web.
